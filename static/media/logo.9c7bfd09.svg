@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="333px" height="298px" viewBox="0 0 333 298" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#FF5C00" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="-16" y="-12" width="359" height="323"></rect>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.741736),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-3">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#FF5C00" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-4" x="-16" y="-12" width="359" height="484"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Rectangle">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#979797" stroke-width="1" x="-15.5" y="-11.5" width="358" height="322"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="url(#radialGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#979797" stroke-width="1" x="-15.5" y="-11.5" width="358" height="483"></rect>
+            </g>
+            <text id="PROJECT-CHANGE" font-family="Montserrat-Regular, Montserrat" font-size="36" font-weight="normal" fill="#000000">
+                <tspan x="80.154" y="101">PROJECT</tspan>
+                <tspan x="252.846" y="101" font-size="57"></tspan>
+                <tspan x="14.45" y="161" font-family="Montserrat-Bold, Montserrat" font-size="55" font-weight="bold" letter-spacing="9.8">CHANGE</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
