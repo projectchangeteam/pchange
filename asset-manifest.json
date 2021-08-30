@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pchange/static/css/main.a617e044.chunk.css",
+    "main.js": "/pchange/static/js/main.2ae1c04f.chunk.js",
+    "main.js.map": "/pchange/static/js/main.2ae1c04f.chunk.js.map",
+    "runtime-main.js": "/pchange/static/js/runtime-main.fb99dd6d.js",
+    "runtime-main.js.map": "/pchange/static/js/runtime-main.fb99dd6d.js.map",
+    "static/js/2.1da3a38f.chunk.js": "/pchange/static/js/2.1da3a38f.chunk.js",
+    "static/js/2.1da3a38f.chunk.js.map": "/pchange/static/js/2.1da3a38f.chunk.js.map",
+    "static/js/3.30adf4be.chunk.js": "/pchange/static/js/3.30adf4be.chunk.js",
+    "static/js/3.30adf4be.chunk.js.map": "/pchange/static/js/3.30adf4be.chunk.js.map",
+    "index.html": "/pchange/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/pchange/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1da3a38f.chunk.js.LICENSE.txt": "/pchange/static/js/2.1da3a38f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pchange/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb99dd6d.js",
+    "static/js/2.1da3a38f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2ae1c04f.chunk.js"
+  ]
+}
